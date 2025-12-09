@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881776104506",
+    "project_id": "siakad-sekolah-c9a69",
+    "storage_bucket": "siakad-sekolah-c9a69.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881776104506:android:dae76dba5a1cf3b95dd103",
+        "android_client_info": {
+          "package_name": "com.example.siakad_sekolah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0QAVHsFPPhgL9meTslT6ZUtJrfZ4WYZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

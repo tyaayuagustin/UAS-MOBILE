@@ -1,0 +1,51 @@
+# Firebase configuration files (JANGAN di-commit untuk keamanan)
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+macos/Runner/GoogleService-Info.plist
+windows/runner/firebase_options.dart
+
+# File yang berisi API keys
+lib/firebase_options.dart
+
+# Uncomment line di atas jika sudah production
+# Untuk development, file ini boleh di-commit dengan placeholder values
+
+# Flutter build files
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Web related
+lib/generated_plugin_registrant.dart
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# macOS
+.DS_Store
+
+# Firebase
+.firebase/
+firebase-debug.log
+firestore-debug.log
